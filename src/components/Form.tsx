@@ -46,11 +46,11 @@ const Form: React.FC<FormProps> = ({ personIndex, onSubmit  }) => {
               name={`question1_${personIndex}`}
               value={answer1}
               onChange={(e) => setAnswer1(e.target.value)}
-              maxLength={250}
+              maxLength={150}
               className="w-full h-24 p-2 rounded-xl resize-none outline-none bg-[#3B4877] text-white"
             />
             <p className="absolute bottom-3 right-2 text-sm">
-              {answer1.length}/250
+              {answer1.length}/150
             </p>
           </div>
         </div>

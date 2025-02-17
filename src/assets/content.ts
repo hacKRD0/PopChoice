@@ -44,5 +44,50 @@ export default [
     title: "RRR",
     releaseYear: "2022",
     content: "RRR (3 hr 7 min): A fictitious story about two legendary revolutionaries and their journey away from home before they started fighting for their country in the 1920s. South Indian action, drama film released in 2022. Directed by S. S. Rajamouli. Written by Vijayendra Prasad, S. S. Rajamouli and Sai Madhav Burra. Starring N. T. Rama Rao Jr., Ram Charan and Ajay Devgn. Rated 7.8 on IMDB"
+  },
+  {
+    title: "Dune: Part Two",
+    releaseYear: "2023",
+    content: "Dune: Part Two (3 hr): As Paul Atreides unites with Chani and the Fremen, he seeks revenge against the conspirators who destroyed his family while facing a prophecy of his own destiny. Sci-Fi, Action, Adventure film released in 2023. Directed by Denis Villeneuve. Written by Denis Villeneuve, Jon Spaihts, and Frank Herbert (novel). Starring Timothée Chalamet, Zendaya, and Rebecca Ferguson. Rated 8.1 on IMDB. *New, Serious*"
+  },
+  {
+    title: "The Shining",
+    releaseYear: "1980",
+    content: "The Shining (2 hr 26 min): Jack Torrance, a struggling writer, becomes a winter caretaker at an isolated hotel, only to be driven to madness by sinister forces. Horror, Thriller, Mystery film released in 1980. Directed by Stanley Kubrick. Based on the novel by Stephen King. Starring Jack Nicholson, Shelley Duvall, and Danny Lloyd. Rated 8.4 on IMDB. *Classic, Scary*"
+  },
+  {
+    title: "La La Land",
+    releaseYear: "2016",
+    content: "La La Land (2 hr 8 min): In Los Angeles, a jazz musician and an aspiring actress meet and fall in love while pursuing their dreams. Romantic, Musical, Comedy film released in 2016. Directed by Damien Chazelle. Written by Damien Chazelle. Starring Ryan Gosling and Emma Stone. Rated 8.0 on IMDB. *Classic, Inspiring*"
+  },
+  {
+    title: "Coco",
+    releaseYear: "2017",
+    content: "Coco (1 hr 45 min): Despite his family’s ban on music, young Miguel dreams of becoming an accomplished musician like his idol. A journey to the Land of the Dead reveals his family’s hidden history. Animated, Adventure, Family film released in 2017. Directed by Lee Unkrich. Starring Anthony Gonzalez, Gael García Bernal, and Benjamin Bratt. Rated 8.4 on IMDB. *Classic, Fun*"
+  },
+  {
+    title: "Mission: Impossible - Dead Reckoning Part One",
+    releaseYear: "2023",
+    content: "Mission: Impossible - Dead Reckoning (2 hr 43 min): Ethan Hunt and his IMF team race against time to stop a terrifying new weapon from falling into the wrong hands. Action, Thriller film released in 2023. Directed by Christopher McQuarrie. Written by Christopher McQuarrie and Erik Jendresen. Starring Tom Cruise, Hayley Atwell, and Simon Pegg. Rated 7.9 on IMDB. *New, Fun*"
+  },
+  {
+    title: "Good Will Hunting",
+    releaseYear: "1997",
+    content: "Good Will Hunting (2 hr 6 min): A gifted but troubled janitor at MIT discovers his extraordinary mathematical abilities while working with a supportive therapist. Drama film released in 1997. Directed by Gus Van Sant. Written by Matt Damon and Ben Affleck. Starring Robin Williams, Matt Damon, and Ben Affleck. Rated 8.3 on IMDB. *Classic, Inspiring*"
+  },
+  {
+    title: "A Quiet Place",
+    releaseYear: "2018",
+    content: "A Quiet Place (1 hr 30 min): In a post-apocalyptic world, a family must live in silence to avoid mysterious creatures that hunt by sound. Horror, Drama film released in 2018. Directed by John Krasinski. Written by Bryan Woods and Scott Beck. Starring Emily Blunt and John Krasinski. Rated 7.5 on IMDB. *New, Scary*"
+  },
+  {
+    title: "The Pursuit of Happyness",
+    releaseYear: "2006",
+    content: "The Pursuit of Happyness (2 hr 5 min): Based on a true story, this drama follows Chris Gardner as he struggles with homelessness while pursuing his dream of a better life for his son. Drama, Biography film released in 2006. Directed by Gabriele Muccino. Starring Will Smith and Jaden Smith. Rated 8.0 on IMDB. *Classic, Inspiring*"
+  },
+  {
+    title: "Knives Out",
+    releaseYear: "2019",
+    content: "Knives Out (2 hr 10 min): A master detective investigates the death of a wealthy patriarch during a family gathering, uncovering secrets and motives along the way. Mystery, Comedy, Crime film released in 2019. Directed by Rian Johnson. Written by Rian Johnson. Starring Daniel Craig, Chris Evans, and Ana de Armas. Rated 7.9 on IMDB. *New, Fun*"
   }
 ];
